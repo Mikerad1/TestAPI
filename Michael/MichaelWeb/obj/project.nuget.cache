@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXVXBORwfTyKmVsz6J19qvhhOY7KlK02TZXr4z3/+lNe3fMZh7Npij9Lqn0IfOjd2vXwq11v0ph4WEe0CYTVsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Armand Steyn\\source\\repos\\Michael\\MichaelWeb\\MichaelWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\Armand Steyn\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
